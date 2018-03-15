@@ -1,0 +1,42 @@
+.slide swiper{
+  height:400rpx;
+  }
+.slide-image{
+  width:100%;
+  height:100%;
+  }
+  .bigtitle{
+    display:block;
+    width:100%;height:80rpx;
+    line-height:80rpx;
+     margin-left:20rpx;
+    font-size:60rpx;
+  }
+  .smallTitle{
+    margin-left:30rpx;
+   font-size:30rpx;
+    }
+  .board{
+   display:flex;
+   flex-direction:column;
+   margin:10rpx auto;
+  }
+  .board-item{
+    width:600rpx;
+    color:#555;
+    border-radius:10px;
+    display:flex;
+    flex:1;
+    border:1px solid #eee;
+    padding:20rpx;
+    margin-top:30rpx;
+    cursor:pointer;            /*技巧：点击时高亮；加navigator标签也会高亮，并且其高亮样式是可修改的，若取消需在标签中添加hover-class:none；*/
+  
+  }
+  .board-item text{
+     flex:1;
+}
+.board-item image{
+  width:40rpx;
+  height:40rpx;
+}

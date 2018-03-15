@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/board/board",
+    "pages/list/list",
+    "pages/item/item"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#45095e",
+    "navigationBarTitleText": "豆瓣电影",
+    "navigationBarTextStyle":"white"
+  }
+}

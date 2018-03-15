@@ -1,0 +1,47 @@
+.poster{
+  width:500rpx;
+  height:700rpx;
+  margin-top:10rpx;
+  margin-left:120rpx;
+}
+.title{
+  display:block;
+  width:100%;
+  font-size:60rpx;
+  text-align:center;
+  padding-top:10rpx;
+}
+.info{
+  display:flex;
+  padding:20rpx;
+  flex-direction: column;
+  color:#ddd;
+  font-size:30rpx;
+}
+.summary .label{
+  display:block;
+font-size:40rpx;
+margin-left:10rpx;
+}
+.summary .content{
+display:block;
+font-size:30rpx;
+color:#5d5252;
+width:100%;
+text-indent:10rpx;
+padding-bottom:120rpx;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
